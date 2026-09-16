@@ -2,6 +2,9 @@
 Um website onde os iniciantes na criação de addons podem aprender sem precisar se esforçar para ler em inglês ou outros idiomas. Facilitando o aprendizado e a criação
 ---
 
+Link do site: https://mdi-minecraft-desenvolvedor-inciante.free.nf/?i=1
+
+---
 Imagens prévias do programa:
 
 ![img (1)](<assets/img (1).png>)
