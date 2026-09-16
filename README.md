@@ -4,4 +4,4 @@ Um website onde os iniciantes na criação de addons podem aprender sem precisar
 
 Imagens prévias do programa:
 
-![img (1)](assets/img (1))
+![img (1)](assets/img (1).png)
